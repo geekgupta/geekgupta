@@ -1,0 +1,18 @@
+nav.scrollmenu {
+  background-color: #333;
+  overflow: auto;
+  height: 30px;
+  white-space: nowrap;
+}
+
+nav.scrollmenu Link {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+nav.scrollmenu Link:hover {
+  background-color: #777;
+}
